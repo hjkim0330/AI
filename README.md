@@ -1,31 +1,40 @@
 # AI-based Medicine and Healthcare
 
-## Trends
+## Info
 [1. AI and machine learning are changing our approach to medicine and the future of healthcare ](https://www.businessinsider.com/artificial-intelligence-healthcare)
 
 [2. IBM Watson Health](https://www.ibm.com/watson-health/learn/artificial-intelligence-medicine)
 
 [3. 영상기반 딥러닝 의료분야 응용](https://heropy.blog/2017/09/30/markdown/)
 
-[4.Forbes_5 Powerful Real-World Examples That Show The Latest Advances](https://www.forbes.com/sites/bernardmarr/2018/07/27/how-is-ai-used-in-healthcare-5-powerful-real-world-examples-that-show-the-latest-advances/#11d1df3b5dfb)
-- 1) AI-assisted robotic surgery
-- 2) Virtual nursing assistants
-- 3) Aid clinical judgment or diagnosis
-- 4) Workflow and administrative tasks
-- 5) Image analysis
+[4. Forbes_5 Powerful Real-World Examples That Show The Latest Advances](https://www.forbes.com/sites/bernardmarr/2018/07/27/how-is-ai-used-in-healthcare-5-powerful-real-world-examples-that-show-the-latest-advances/#11d1df3b5dfb)
+- AI-assisted robotic surgery
+- Virtual nursing assistants
+- Aid clinical judgment or diagnosis
+- Workflow and administrative tasks
+- Image analysis
 
 [5. Top Smart Algorithms In Healthcare](https://medicalfuturist.com/top-ai-algorithms-healthcare/)
-- 1) The algorithm spotting DNA mutations in tumors
-- 2) Can A.I. score better in classifying heart images than humans?
-- 3) Heart attack predicting algorithm
-- 4) More precise skin cancer diagnoses with A.I.
-- 5) A.I. systems for the ICU
-- 6) Computers detecting breast cancer risk
-- 7) A.I. helps pathologists diagnose metastatic breast cancer
-- 8) Smart algorithm predicting suicide risk
-- 9) A.I. predicting death risk among inpatients
+- The algorithm spotting DNA mutations in tumors
+- Can A.I. score better in classifying heart images than humans?
+- Heart attack predicting algorithm
+- More precise skin cancer diagnoses with A.I.
+- A.I. systems for the ICU
+- Computers detecting breast cancer risk
+- A.I. helps pathologists diagnose metastatic breast cancer
+- Smart algorithm predicting suicide risk
+- A.I. predicting death risk among inpatients
+
+[6. Six Challenges To Tackle Before Artificial Intelligence Redesigns Healthcare](https://medicalfuturist.com/six-challenges-to-tackle-before-artificial-intelligence-redesigns-healthcare/)
+- Technological limitations of A.I.
+- Medical limitations
+- Ethical challenges
+- Better regulations
+- Misconceptions and overhyping
+- Human rejection
 
 
+[7. Medicalfuturist 꾸준히 보기](https://medicalfuturist.com/)
 
 ## Papers (Main)
 [1. Handling limited datasets with neural networks in medical applications: A small-data approach](https://www.sciencedirect.com/science/article/pii/S0933365716301749)
@@ -42,8 +51,14 @@
 
 [7. Disease phenotype synonymous prediction through network representation learning from PubMed database](https://www.sciencedirect.com/science/article/pii/S0933365718305827)
 
-
 [8. https://www.sciencedirect.com/science/article/pii/S0933365718305402](https://www.sciencedirect.com/science/article/pii/S0933365718305402)
+
+[9. Labeling images with facial emotion and the potential for pediatric healthcare](https://www.sciencedirect.com/science/article/pii/S0933365718302598)
+
+[10. Atrial Scar Quantification via Multi-scale CNN in the Graph-cuts Framework](https://www.sciencedirect.com/science/article/pii/S1361841519301355)
+
+[11. Multi-Resolution Convolutional Neural Networks for Fully Automated Segmentation of Acutely Injured Lungs in Multiple Species](https://www.sciencedirect.com/journal/medical-image-analysis)
+
 
 
 ## Reference (Github)
@@ -53,7 +68,7 @@
 
 [3. 딥러닝 안에서 일어나는 과정을 설명하는 인공지능 기술(PyCon Korea 2019 Tutorial)](https://github.com/OpenXAIProject/PyConKorea2019-Tutorials)
 
-[4. 
+[4. adversarial-medicine](https://github.com/sgfin/adversarial-medicine)
 
 
 ## MarkDown 사용법
