@@ -1,14 +1,33 @@
 # AI-based Medicine and Healthcare
 
-## Reference
+## Trends
 [1. AI and machine learning are changing our approach to medicine and the future of healthcare ](https://www.businessinsider.com/artificial-intelligence-healthcare)
 
 [2. IBM Watson Health](https://www.ibm.com/watson-health/learn/artificial-intelligence-medicine)
 
 [3. 영상기반 딥러닝 의료분야 응용](https://heropy.blog/2017/09/30/markdown/)
 
+[4.Forbes_5 Powerful Real-World Examples That Show The Latest Advances](https://www.forbes.com/sites/bernardmarr/2018/07/27/how-is-ai-used-in-healthcare-5-powerful-real-world-examples-that-show-the-latest-advances/#11d1df3b5dfb)
+- 1) AI-assisted robotic surgery
+- 2) Virtual nursing assistants
+- 3) Aid clinical judgment or diagnosis
+- 4) Workflow and administrative tasks
+- 5) Image analysis
 
-## Papers
+[5. Top Smart Algorithms In Healthcare](https://medicalfuturist.com/top-ai-algorithms-healthcare/)
+- 1) The algorithm spotting DNA mutations in tumors
+- 2) Can A.I. score better in classifying heart images than humans?
+- 3) Heart attack predicting algorithm
+- 4) More precise skin cancer diagnoses with A.I.
+- 5) A.I. systems for the ICU
+- 6) Computers detecting breast cancer risk
+- 7) A.I. helps pathologists diagnose metastatic breast cancer
+- 8) Smart algorithm predicting suicide risk
+- 9) A.I. predicting death risk among inpatients
+
+
+
+## Papers (Main)
 [1. Handling limited datasets with neural networks in medical applications: A small-data approach](https://www.sciencedirect.com/science/article/pii/S0933365716301749)
 
 [2. Detecting mental fatigue from eye-tracking data gathered while watching video: Evaluation in younger and older adults](https://www.sciencedirect.com/science/article/pii/S0933365717306140)
