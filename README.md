@@ -36,7 +36,7 @@
 
 [7. Medicalfuturist 꾸준히 보기](https://medicalfuturist.com/)
 
-## Papers (Main)
+## Papers 
 [1. Handling limited datasets with neural networks in medical applications: A small-data approach](https://www.sciencedirect.com/science/article/pii/S0933365716301749)
 
 [2. Detecting mental fatigue from eye-tracking data gathered while watching video: Evaluation in younger and older adults](https://www.sciencedirect.com/science/article/pii/S0933365717306140)
@@ -51,7 +51,7 @@
 
 [7. Disease phenotype synonymous prediction through network representation learning from PubMed database](https://www.sciencedirect.com/science/article/pii/S0933365718305827)
 
-[8. https://www.sciencedirect.com/science/article/pii/S0933365718305402](https://www.sciencedirect.com/science/article/pii/S0933365718305402)
+[8. A modular cluster based collaborative recommender system for cardiac patients](https://www.sciencedirect.com/science/article/pii/S0933365718305402)
 
 [9. Labeling images with facial emotion and the potential for pediatric healthcare](https://www.sciencedirect.com/science/article/pii/S0933365718302598)
 
